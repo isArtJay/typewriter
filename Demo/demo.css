@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(251, 178, 23);
+  font-family: Georgia, "Times New Roman", "Microsoft YaHei", STXihei, serif;
+}
+
+#typing {
+  font-size: 50px;
+  color: #fff;
+  position: fixed;
+  left: 30%;
+  bottom: 50%;
+}
+
+#bt {
+  position: fixed;
+  left: 35%;
+  bottom: 30%;
+  background-color: white;
+  color: black;
+  border: 2px solid #008cba;
+  z-index: 1;
+  width: 200px;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+#bt:hover {
+  background-color: #008cba;
+  color: white;
+}
