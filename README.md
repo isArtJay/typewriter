@@ -2,7 +2,7 @@
 
 js实现的简单打字机效果
 
-[在线Demo](<https://www.lien.run/Demo/typewriter/>)
+[在线Demo](<https://www.lien.run/Project/typewriter/>)
 
 
 
