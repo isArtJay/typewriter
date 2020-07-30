@@ -4,7 +4,7 @@ js实现的简单打字机效果
 
 [在线Demo](<https://www.lien.run/Project/typewriter/>)
 
-<img align="center" src="https://raw.githubusercontent.com/isArtJay/typewriter/master/src/demo.gif"><img/>
+<img align="center" src="https://raw.githubusercontent.com/isArtJay/typewriter/master/src/de.gif"><img/>
 
 # 用法示例
 
